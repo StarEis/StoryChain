@@ -1,4 +1,4 @@
-StoryChain
+**StoryChain**
 Blockchain Tabanlı Hikaye Yazma ve Oylama Platformu
 
 StoryChain, kullanıcıların yaratıcı hikayeler oluşturmasını ve topluluk katkılarıyla bu hikayeleri geliştirmesini sağlayan bir blockchain tabanlı platformdur. Hikayeler ve eklemeler, merkezi olmayan bir yapıda güvenle saklanır ve oylama işlemleri şeffaf bir şekilde gerçekleştirilir.
